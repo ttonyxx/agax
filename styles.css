@@ -32,3 +32,17 @@ body {
   from, to { border-color: transparent }
   50% { border-color: pink }
 }
+
+#form-section {
+  position: absolute;
+  left-margin: calc(50vw-55px);
+  margin-top: 20vh;
+}
+
+#form-btn {
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: pink;
+  font-family: 'Lato', sans-serif;
+}
